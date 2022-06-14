@@ -15,24 +15,23 @@
   "figura.trust.maxparticles": "最大 粒子数/秒",
   "figura.trust.maxsfx": "最大 音效数/秒",
   "figura.trust.allowvanillaedit": "Vanilla Avatar Changes",
-  "figura.trust.allownameplateedit": "改变悬浮名称/聊天名称",
+  "figura.trust.allownameplateedit": "改变 玩家名称/聊天名称",
   "figura.trust.allowoffscreenrendering": "Offscreen Rendering",
   "figura.trust.allowcustomrenderlayers": "Custom Render Layers",
   "figura.trust.allowcustomsounds": "自定义音效",
-  "figura.trust.bbanimations": "Max Animations Complexity",
+  "figura.trust.bbanimations": "最大 动画复杂度",
 
 
-  "figura.gui.trustmenu.title": "Figura Trust Menu",
+  "figura.gui.trustmenu.title": "Figura 信任菜单",
   "figura.gui.config.title": "Figura 配置菜单",
-  "figura.gui.menu.title": "Figura Menu",
-  "figura.gui.keybinds.title": "Figura Script Keybinds Menu",
-  "figura.gui.sounds.title": "Figura Custom Sounds Preview Menu",
+  "figura.gui.menu.title": "Figura 菜单",
+  "figura.gui.keybinds.title": "Figura 脚本按键菜单",
+  "figura.gui.sounds.title": "Figura 自定义音效预览菜单",
+  "figura.gui.dropconfirm": "你想加载以下模型吗？",
+  "figura.gui.panic.warning": "Figura 的使用受到限制 // 模型渲染已禁用！ :(",
 
-  "figura.gui.dropconfirm": "Do you want to add the following models to Figura?",
-  "figura.gui.panic.warning": "Limited usage of Figura! // Avatar rendering is Disabled! *panik*",
-
-  "figura.gui.newver.tooltip": "New Figura version detected",
-  "figura.gui.newver.tooltip2": "Check the discord server for new updates!",
+  "figura.gui.newver.tooltip": "检测到 Figura 更新",
+  "figura.gui.newver.tooltip2": "请查看 discord 以了解更新信息",
 
   "figura.gui.button.cache": "缓存模型",
   "figura.gui.button.cache.done": "成功缓存模型！",
@@ -52,7 +51,7 @@
   "figura.gui.button.openavatarfolder": "打开模型文件夹",
   "figura.gui.button.resetallperm": "重置所有模型限制",
   "figura.gui.button.resetperm": "重置模型限制",
-  "figura.gui.button.reloadavatar": "重加载模型",
+  "figura.gui.button.reloadavatar": "重载模型",
   "figura.gui.button.search": "搜索中……",
 
   "figura.gui.button.upload.tooltip": "点击以上传并使其他人看到你的模型",
@@ -95,136 +94,136 @@
   "figura.gui.status.name": "名字:",
 
 
-  "figura.config.nametag": "NameTag",
-  "figura.config.misc": "Misc",
-  "figura.config.actionwheel": "Action Wheel",
-  "figura.config.dev": "Developer Settings",
+  "figura.config.nametag": "名称",
+  "figura.config.misc": "杂项",
+  "figura.config.actionwheel": "动作面板",
+  "figura.config.dev": "开发者设置",
 
-  "figura.config.log_location.1": "Console/Chat",
-  "figura.config.log_location.2": "Console",
-  "figura.config.log_location.3": "Chat",
-  "figura.config.log_location.4": "None",
+  "figura.config.log_location.1": "控制台/聊天",
+  "figura.config.log_location.2": "控制台",
+  "figura.config.log_location.3": "聊天",
+  "figura.config.log_location.4": "无",
 
-  "figura.config.preview_nameplate": "Show Preview NameTag",
-  "figura.config.preview_nameplate.tooltip": "Displays your NameTag on the model preview screen",
+  "figura.config.preview_nameplate": "预览时显示玩家名称",
+  "figura.config.preview_nameplate.tooltip": "在模型预览屏幕中时显示玩家名称",
 
-  "figura.config.nameplate_modifications": "Player NameTag customizations",
-  "figura.config.nameplate_modifications.tooltip": "Allows the names of players be customized",
+  "figura.config.nameplate_modifications": "自定义玩家名称",
+  "figura.config.nameplate_modifications.tooltip": "允许自定义玩家的名字",
 
-  "figura.config.chat_modifications": "Chat customizations",
-  "figura.config.chat_modifications.tooltip": "Allows the names of players in the chat be customized",
+  "figura.config.chat_modifications": "自定义聊天",
+  "figura.config.chat_modifications.tooltip": "允许自定义聊天中玩家的名字",
 
-  "figura.config.playerlist_modifications": "Player List customizations",
-  "figura.config.playerlist_modifications.tooltip": "Allows the names of players in the tab list be customized",
+  "figura.config.playerlist_modifications": "自定义玩家列表",
+  "figura.config.playerlist_modifications.tooltip": "允许自定义玩家列表中的玩家名称",
 
-  "figura.config.badges": "Show Badges",
-  "figura.config.badges.tooltip": "Show badges next to names for people with Avatars",
+  "figura.config.badges": "显示徽标",
+  "figura.config.badges.tooltip": "在有模型的人的名称旁边显示徽标",
 
-  "figura.config.badge_as_icons": "NameTag Mark as Icon",
-  "figura.config.badge_as_icons.tooltip": "Display The Mark △ as an icon %d on the NameTag",
+  "figura.config.badge_as_icons": "将徽章显示为图像",
+  "figura.config.badge_as_icons.tooltip": "在玩家名称旁将 %d 当做 △ 的图像版本显示",
 
-  "figura.config.figura_button_location": "Figura Button Location",
-  "figura.config.figura_button_location.tooltip": "Location where the Figura settings button should be",
+  "figura.config.figura_button_location": "Figura 按钮位置",
+  "figura.config.figura_button_location.tooltip": "Figura 设置按钮的位置",
   "figura.config.figura_button_location.1": "左上",
   "figura.config.figura_button_location.2": "右上",
   "figura.config.figura_button_location.3": "左下",
   "figura.config.figura_button_location.4": "右下",
   "figura.config.figura_button_location.5": "图标",
 
-  "figura.config.script_log_location": "Script Log",
-  "figura.config.script_log_location.tooltip": "Script debug log output location",
+  "figura.config.script_log_location": "脚本日志",
+  "figura.config.script_log_location.tooltip": "脚本调试日志输出位置",
 
-  "figura.config.player_popup_button": "Player Popup key",
-  "figura.config.player_popup_button.tooltip": "Player Popup Keybind",
+  "figura.config.player_popup_button": "信任面板按键",
+  "figura.config.player_popup_button.tooltip": "在头顶显示信任面板，快速调整信任",
 
-  "figura.config.accent_color": "UI Accent Color",
-  "figura.config.accent_color.tooltip": "Changes the accent color used by the UI",
+  "figura.config.accent_color": "UI 主题色",
+  "figura.config.accent_color.tooltip": "改变UI的主题色",
 
-  "figura.config.release_channel": "Version Update Channel",
-  "figura.config.release_channel.tooltip": "Changed the update channel to fetch new versions",
-  "figura.config.release_channel.1": "Pre-Release",
-  "figura.config.release_channel.2": "Full-Release",
-  "figura.config.release_channel.3": "No Updates",
+  "figura.config.release_channel": "版本更新",
+  "figura.config.release_channel.tooltip": "改变获取的更新类型",
+  "figura.config.release_channel.1": "预发布",
+  "figura.config.release_channel.2": "正式发布",
+  "figura.config.release_channel.3": "不更新",
 
-  "figura.config.custom_player_heads": "Custom Player Heads",
-  "figura.config.custom_player_heads.tooltip": "Toggles avatar rendering on player heads and in tablist",
+  "figura.config.custom_player_heads": "自定义玩家头像",
+  "figura.config.custom_player_heads.tooltip": "在玩家头颅和玩家列表中切换模型渲染",
 
-  "figura.config.fix_hands": "Lock First Person Hands",
+  "figura.config.fix_hands": "锁定第一人称的手",
   "figura.config.fix_hands.tooltip": "Toggle the transformations of first person hands",
 
-  "figura.config.easter_eggs": "Enable Easter Eggs",
-  "figura.config.easter_eggs.tooltip": "Toggles fun and unexpected aspects of Figura",
+  "figura.config.easter_eggs": "启用复活节彩蛋",
+  "figura.config.easter_eggs.tooltip": "切换一些有趣的功能",
 
-  "figura.config.action_wheel_button": "Action Wheel key",
-  "figura.config.action_wheel_button.tooltip": "Action Wheel Keybind",
+  "figura.config.action_wheel_button": "动作面板",
+  "figura.config.action_wheel_button.tooltip": "动作面板按键",
 
-  "figura.config.action_wheel_title_pos": "Action Wheel Title position",
-  "figura.config.action_wheel_title_pos.tooltip": "The position of the Title of the Action Wheel",
-  "figura.config.action_wheel_title_pos.1": "Mouse",
-  "figura.config.action_wheel_title_pos.2": "Top",
-  "figura.config.action_wheel_title_pos.3": "Bottom",
-  "figura.config.action_wheel_title_pos.4": "Center",
+  "figura.config.action_wheel_title_pos": "动作名称显示位置",
+  "figura.config.action_wheel_title_pos.tooltip": "动作的名称所显示的位置",
+  "figura.config.action_wheel_title_pos.1": "跟随指针",
+  "figura.config.action_wheel_title_pos.2": "上",
+  "figura.config.action_wheel_title_pos.3": "下",
+  "figura.config.action_wheel_title_pos.4": "中间",
 
-  "figura.config.action_wheel_execute_on_close": "Execute on Close",
-  "figura.config.action_wheel_execute_on_close.tooltip": "Executes the selected action when closing the Action Wheel, otherwise actions only run on mouse click",
+  "figura.config.action_wheel_execute_on_close": "关闭时执行",
+  "figura.config.action_wheel_execute_on_close.tooltip": "关闭时仅在点击后执行，打开则松开时也会执行选中的动作",
 
-  "figura.config.new_action_wheel": "Use New Action Wheel",
-  "figura.config.new_action_wheel.tooltip": "Changes the Action Wheel to a newer implementation of it",
+  "figura.config.new_action_wheel": "使用新的动作面板",
+  "figura.config.new_action_wheel.tooltip": "将动作面板改为较新的实现方式",
 
-  "figura.config.use_local_server": "Use Local Server",
-  "figura.config.use_local_server.tooltip": "Toggles between using a local server or the main online server for online models",
+  "figura.config.use_local_server": "使用本地服务器",
+  "figura.config.use_local_server.tooltip": "在本地服务器和主服务器之间切换模型",
 
-  "figura.config.format_script_on_upload": "Format Script",
-  "figura.config.format_script_on_upload.tooltip": "Format script when uploading your avatar",
+  "figura.config.format_script_on_upload": "格式化脚本",
+  "figura.config.format_script_on_upload.tooltip": "上传头像时的格式化脚本",
 
-  "figura.config.log_others_script": "Log Other Player's Scripts",
-  "figura.config.log_others_script.tooltip": "Display script debug logs from others players",
+  "figura.config.log_others_script": "记录其他玩家的脚本",
+  "figura.config.log_others_script.tooltip": "显示其他玩家的脚本调试日志",
 
   "figura.config.render_debug_parts_pivot": "Render Parts Pivot",
   "figura.config.render_debug_parts_pivot.tooltip": "Render the Pivots from %d and %d when the hitbox debug rendering is enabled",
   "figura.config.render_debug_parts_pivot.tooltip.cubes": "cubes",
   "figura.config.render_debug_parts_pivot.tooltip.groups": "groups",
 
-  "figura.config.render_own_nameplate": "Render Own NameTag",
-  "figura.config.render_own_nameplate.tooltip": "Renders your own NameTag ingame",
+  "figura.config.render_own_nameplate": "渲染自己的名称",
+  "figura.config.render_own_nameplate.tooltip": "在游戏中渲染你自己的名称",
 
-  "figura.config.model_folder_path": "Figura Directory",
-  "figura.config.model_folder_path.tooltip": "The path where all figura files (trust/avatars/cache) should go. Leave blank to use your Minecraft directory",
+  "figura.config.model_folder_path": "Figura 路径",
+  "figura.config.model_folder_path.tooltip": "T所有figura文件（trust/avatars/cache）的路径。留空以使用 .Minecraft",
 
-  "figura.config.panic_button": "Toggle Avatar Rendering",
-  "figura.config.panic_button.tooltip": "This keybind toggles the avatar rendering of everyone! Beware!",
+  "figura.config.panic_button": "切换模型渲染",
+  "figura.config.panic_button.tooltip": "请注意!这个功能可以切换每个人的模型渲染!",
 
-  "figura.config.pings_log_location": "Pings Logging",
-  "figura.config.pings_log_location.tooltip": "Change the logging of received pings",
+  "figura.config.pings_log_location": "Pings 日志",
+  "figura.config.pings_log_location.tooltip": "改变收到的ping的日志记录",
 
-  "figura.config.backend_path": "Backend IP",
-  "figura.config.backend_path.tooltip": "IP used for connecting to Figura servers (DO NOT INCLUDE \"https://\")",
-
-
-  "figura.toast.upload.success.title": "Avatar Uploaded!",
-  "figura.toast.upload.error.title": "Avatar Upload Failed!",
-
-  "figura.toast.upload.error.many": "You have too many avatars!!",
-  "figura.toast.upload.error.empty": "The avatar is empty!!",
-  "figura.toast.upload.error.space": "Not enough space on server!!",
-
-  "figura.toast.avatar.reload.title": "Avatar Reloaded!",
-  "figura.toast.avatar.trust.title": "is now: ",
+  "figura.config.backend_path": "云端 IP",
+  "figura.config.backend_path.tooltip": "用于连接 Figura 服务器的IP(不要包括 \"https://\")",
 
 
-  "figura.actionwheel.warning": "No script found",
-  "figura.actionwheel.warninginfo": "The Action Wheel contents are set by your avatar script",
-  "figura.actionwheel.nofunction": "unbound function!",
+  "figura.toast.upload.success.title": "模型已上传",
+  "figura.toast.upload.error.title": "模型上传失败",
+
+  "figura.toast.upload.error.many": "你的模型太多了！！",
+  "figura.toast.upload.error.empty": "这个模型是空的！！",
+  "figura.toast.upload.error.space": "你的模型太大了！！",
+
+  "figura.toast.avatar.reload.title": "模型已重载",
+  "figura.toast.avatar.trust.title": "现在是: ",
 
 
-  "figura.playerpopup.cancel": "Cancel",
-  "figura.playerpopup.reload": "Reload Avatar",
-  "figura.playerpopup.increasetrust": "Increase Trust",
-  "figura.playerpopup.decreasetrust": "Decrease Trust",
-  "figura.playerpopup.trustmenu": "Open Trust Menu",
+  "figura.actionwheel.warning": "未找到模型",
+  "figura.actionwheel.warninginfo": "动作面板的内容是由你的模型脚本设置的",
+  "figura.actionwheel.nofunction": "未绑定",
 
-  "figura.playerpopup.trustissue": "Avatar has features that requires more trust!",
-  "figura.playerpopup.scriptissue": "Avatar has an script error!",
+
+  "figura.playerpopup.cancel": "取消",
+  "figura.playerpopup.reload": "重载模型",
+  "figura.playerpopup.increasetrust": "增加信任",
+  "figura.playerpopup.decreasetrust": "减少信任",
+  "figura.playerpopup.trustmenu": "打开信任菜单",
+
+  "figura.playerpopup.trustissue": "模型被限制了，需要让别人信任你",
+  "figura.playerpopup.scriptissue": "模型有一个脚本错误",
 
 
   "figura.models.unselect": "-未选择-",
